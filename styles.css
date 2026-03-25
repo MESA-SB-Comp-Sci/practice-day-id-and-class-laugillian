@@ -4,4 +4,63 @@
 
 /* write your rules below  this line*/
 
+.dark-bg{
+    background-color:#1e1e1e;
+}
+
+.light-text{
+    color:#ffff
+}
+
+.rounded{
+    border-radius: 10px;
+}
+
+.spaced-out{
+    padding:20px;
+}
+
+#page-title{
+    font-size:48px;
+    text-align:center;
+}
+
+.card{
+    background-color:aqua;
+    border-color: aquamarine;
+    padding:20px;
+}
+
+.warning{
+    background-color:rgb(43, 2, 2);
+    color:darkred
+}
+
+.img-style{
+    border-style: ridge;
+    border-radius: 20px;
+}
+
+.tag-label{
+    background-color: rgb(1, 1, 30);
+    text-align:center;
+    color:aqua
+}
+
+.venti{
+    background-color:aqua;
+    border-color:darkcyan;
+}
+
+.riddlerosehearts{
+    color:red;
+    padding:200px;
+}
+
+#liliavanrouge{
+    font-size 20px;
+    color:rgb(154, 0, 13);
+    margin:azure;
+}
+
 
